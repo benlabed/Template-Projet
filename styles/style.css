@@ -1,0 +1,34 @@
+img{
+	height:500px;  
+	width:300px;
+
+}
+
+div{
+	background-image:url(../images/nicolas.png);
+    background-repeat:no-repeat;
+    /*repeat ou repeat-x ou repeat-y ou no repeat
+    background-position:50px 500px;
+    soit les mots cles :top center bottom left right soit deux valeurs ( en px) : décalage vers la droite et decalages vers le bas*/*/
+    background-size:cover;
+    /*l 'image occuppe toujours 100pourcent de la surface de la balise*/
+    /*background-position:center;*/ 
+    background-size:contain;
+    /*l'image et la plus grande possible sans etre recadrée*/
+    
+    width:200px;
+    height:300px;
+    border:3px solid red;
+}
+
+
+
+
+/**/
+
+ 
+  		
+
+  		
+
+
