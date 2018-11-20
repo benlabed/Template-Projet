@@ -1,0 +1,21 @@
+html{
+	height:100%;/**/
+
+}
+
+body{
+	height:100%;/*Permet d/
+	margin:0;/* Colle le body au bord du navigateur*/
+}
+*{
+	box-sizing:border-box;/*empeche le padding de gradir l'element*/
+
+/*Helpers*/
+.mg0{
+	margin:0;
+}
+
+
+
+
+}
